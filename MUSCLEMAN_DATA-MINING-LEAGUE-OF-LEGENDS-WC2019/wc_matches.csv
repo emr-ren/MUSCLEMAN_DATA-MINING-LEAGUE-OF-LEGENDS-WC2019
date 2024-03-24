@@ -1,0 +1,82 @@
+,team1,team2,winner,date,pbp_caster,color_caster,mvp,blue,red
+0,Fnatic,SK Telecom T1,SK Telecom T1,2019-10-12 12:00:00,Atlus,"Froskurinn, Kobe",Faker,Fnatic,SK Telecom T1
+1,Royal Never Give Up,Clutch Gaming,Royal Never Give Up,2019-10-12 13:00:00,Atlus,"Froskurinn, Kobe",Langx,Royal Never Give Up,Clutch Gaming
+2,Invictus Gaming,ahq eSports Club,Invictus Gaming,2019-10-12 14:00:00,Atlus,"Froskurinn, Kobe",Rookie,Invictus Gaming,ahq eSports Club
+3,DAMWON Gaming,Team Liquid,Team Liquid,2019-10-12 15:00:00,Phreak,"Azael, Spawn",Impact,DAMWON Gaming,Team Liquid
+4,J Team,FunPlus Phoenix,J Team,2019-10-12 16:00:00,Phreak,"Azael, Spawn",FoFo,J Team,FunPlus Phoenix
+5,GAM Esports,Splyce,Splyce,2019-10-12 17:00:00,Phreak,"Azael, Spawn",Humanoid,GAM Esports,Splyce
+6,SK Telecom T1,Royal Never Give Up,SK Telecom T1,2019-10-13 12:00:00,CaptainFlowers,"Jatt, Vedius",Clid,SK Telecom T1,Royal Never Give Up
+7,Fnatic,Clutch Gaming,Fnatic,2019-10-13 13:00:00,CaptainFlowers,"Jatt, Vedius",Broxah,Fnatic,Clutch Gaming
+8,Team Liquid,Invictus Gaming,Invictus Gaming,2019-10-13 14:00:00,Medic,"Jatt, Vedius",Rookie,Team Liquid,Invictus Gaming
+9,ahq eSports Club,DAMWON Gaming,DAMWON Gaming,2019-10-13 15:00:00,Medic,"PapaSmithy, Azael",ShowMaker,ahq eSports Club,DAMWON Gaming
+10,Griffin,G2 Esports,G2 Esports,2019-10-13 16:00:00,Medic,"PapaSmithy, Azael",Jankos,Griffin,G2 Esports
+11,Cloud9,Hong Kong Attitude,Cloud9,2019-10-13 17:00:00,Medic,"PapaSmithy, Azael",Licorice,Cloud9,Hong Kong Attitude
+12,Invictus Gaming,DAMWON Gaming,DAMWON Gaming,2019-10-14 13:00:00,Atlus,"Azael, Spawn",Canyon,Invictus Gaming,DAMWON Gaming
+13,ahq eSports Club,Team Liquid,Team Liquid,2019-10-14 14:00:00,Atlus,"Azael, Spawn",Impact,ahq eSports Club,Team Liquid
+14,FunPlus Phoenix,Splyce,FunPlus Phoenix,2019-10-14 15:00:00,Atlus,"Azael, Spawn",Doinb,FunPlus Phoenix,Splyce
+15,J Team,GAM Esports,GAM Esports,2019-10-14 16:00:00,Phreak,"Ender, Jatt",Zeros,J Team,GAM Esports
+16,Griffin,Hong Kong Attitude,Griffin,2019-10-14 17:00:00,Phreak,"Ender, Jatt",Chovy,Griffin,Hong Kong Attitude
+17,G2 Esports,Cloud9,G2 Esports,2019-10-14 18:00:00,Phreak,"Ender, Jatt",Perkz,G2 Esports,Cloud9
+18,Royal Never Give Up,Fnatic,Royal Never Give Up,2019-10-15 13:00:00,Quickshot,"Vedius, Azael",Langx,Royal Never Give Up,Fnatic
+19,Clutch Gaming,SK Telecom T1,SK Telecom T1,2019-10-15 14:00:00,Quickshot,"Vedius, Azael",Faker,Clutch Gaming,SK Telecom T1
+20,FunPlus Phoenix,GAM Esports,FunPlus Phoenix,2019-10-15 15:00:00,Quickshot,"Vedius, Azael",Tian,FunPlus Phoenix,GAM Esports
+21,Splyce,J Team,J Team,2019-10-15 16:00:00,Atlus,"PapaSmithy, Jatt",FoFo,Splyce,J Team
+22,Cloud9,Griffin,Griffin,2019-10-15 17:00:00,Atlus,"PapaSmithy, Jatt",Tarzan,Cloud9,Griffin
+23,Hong Kong Attitude,G2 Esports,G2 Esports,2019-10-15 18:00:00,Atlus,"PapaSmithy, Jatt",Perkz,Hong Kong Attitude,G2 Esports
+24,GAM Esports,FunPlus Phoenix,FunPlus Phoenix,2019-10-17 13:00:00,Drakos,"Ender, Azael",Crisp,GAM Esports,FunPlus Phoenix
+25,J Team,Splyce,Splyce,2019-10-17 14:00:00,Drakos,"Ender, Azael",Humanoid,J Team,Splyce
+26,GAM Esports,J Team,J Team,2019-10-17 15:00:00,Drakos,"Ender, Azael",Rest,GAM Esports,J Team
+27,Splyce,FunPlus Phoenix,Splyce,2019-10-17 16:00:00,Medic,"Jatt, Froskurinn",Vizicsacsi,Splyce,FunPlus Phoenix
+28,Splyce,GAM Esports,Splyce,2019-10-17 17:00:00,Medic,"Jatt, Froskurinn",Humanoid,Splyce,GAM Esports
+29,FunPlus Phoenix,J Team,FunPlus Phoenix,2019-10-17 18:00:00,Medic,"Jatt, Froskurinn",Lwx,FunPlus Phoenix,J Team
+30,Griffin,Cloud9,Griffin,2019-10-18 13:00:00,Medic,"PapaSmithy, Froskurinn",Tarzan,Griffin,Cloud9
+31,G2 Esports,Hong Kong Attitude,G2 Esports,2019-10-18 14:00:00,Medic,"PapaSmithy, Froskurinn",Caps,G2 Esports,Hong Kong Attitude
+32,Hong Kong Attitude,Griffin,Griffin,2019-10-18 15:00:00,Medic,"PapaSmithy, Froskurinn",Chovy,Hong Kong Attitude,Griffin
+33,Cloud9,G2 Esports,G2 Esports,2019-10-18 16:00:00,Drakos,"Jatt, Vedius",Caps,Cloud9,G2 Esports
+34,Hong Kong Attitude,Cloud9,Cloud9,2019-10-18 17:00:00,Drakos,"Jatt, Vedius",Deftly,Hong Kong Attitude,Cloud9
+35,G2 Esports,Griffin,Griffin,2019-10-18 18:00:00,Drakos,"Jatt, Vedius",Lehends,G2 Esports,Griffin
+36,Royal Never Give Up,SK Telecom T1,SK Telecom T1,2019-10-19 12:00:00,Drakos,"Kobe, Vedius",Teddy,Royal Never Give Up,SK Telecom T1
+37,Clutch Gaming,Fnatic,Fnatic,2019-10-19 13:00:00,Drakos,"Kobe, Vedius",Rekkles,Clutch Gaming,Fnatic
+38,SK Telecom T1,Fnatic,Fnatic,2019-10-19 14:00:00,Drakos,"Kobe, Vedius",Nemesis,SK Telecom T1,Fnatic
+39,Clutch Gaming,Royal Never Give Up,Royal Never Give Up,2019-10-19 15:00:00,Quickshot,"PapaSmithy, Spawn",Uzi,Clutch Gaming,Royal Never Give Up
+40,SK Telecom T1,Clutch Gaming,SK Telecom T1,2019-10-19 16:00:00,Quickshot,"PapaSmithy, Spawn",Clid,SK Telecom T1,Clutch Gaming
+41,Fnatic,Royal Never Give Up,Fnatic,2019-10-19 17:00:00,Quickshot,"PapaSmithy, Spawn",Rekkles,Fnatic,Royal Never Give Up
+42,ahq eSports Club,Invictus Gaming,Invictus Gaming,2019-10-20 12:00:00,Phreak,"Spawn, Jatt",Rookie,ahq eSports Club,Invictus Gaming
+43,Team Liquid,DAMWON Gaming,DAMWON Gaming,2019-10-20 13:00:00,Phreak,"Spawn, Jatt",BeryL,Team Liquid,DAMWON Gaming
+44,Team Liquid,ahq eSports Club,Team Liquid,2019-10-20 14:00:00,Phreak,"Spawn, Jatt",CoreJJ,Team Liquid,ahq eSports Club
+45,DAMWON Gaming,Invictus Gaming,DAMWON Gaming,2019-10-20 15:00:00,Quickshot,Kobe,ShowMaker,DAMWON Gaming,Invictus Gaming
+46,DAMWON Gaming,ahq eSports Club,DAMWON Gaming,2019-10-20 16:00:00,Quickshot,Kobe,Nuguri,DAMWON Gaming,ahq eSports Club
+47,Invictus Gaming,Team Liquid,Invictus Gaming,2019-10-20 17:00:00,Quickshot,Kobe,TheShy,Invictus Gaming,Team Liquid
+48,FunPlus Phoenix,Splyce,FunPlus Phoenix,2019-10-17 19:00:00,Medic,"Jatt, Froskurinn",Doinb,FunPlus Phoenix,Splyce
+49,G2 Esports,Griffin,Griffin,2019-10-18 19:00:00,Drakos,"Jatt, Vedius",Tarzan,G2 Esports,Griffin
+50,Clutch Gaming,Unicorns Of Love,Unicorns Of Love,2019-10-02 11:00:00,Medic,Jatt,AHaHaCiK,Clutch Gaming,Unicorns Of Love
+51,DetonatioN FocusMe,Splyce,Splyce,2019-10-02 12:00:00,Medic,Jatt,Kobbe,DetonatioN FocusMe,Splyce
+52,MAMMOTH,Unicorns Of Love,MAMMOTH,2019-10-02 13:00:00,Medic,Jatt,Triple,MAMMOTH,Unicorns Of Love
+53,DetonatioN FocusMe,Isurus,Isurus,2019-10-02 14:00:00,Atlus,EGym,Warangelus,DetonatioN FocusMe,Isurus
+54,MAMMOTH,Clutch Gaming,Clutch Gaming,2019-10-02 15:00:00,Atlus,EGym,Huni,MAMMOTH,Clutch Gaming
+55,Splyce,Isurus,Splyce,2019-10-02 16:00:00,Atlus,EGym,Humanoid,Splyce,Isurus
+56,Royal Youth,DAMWON Gaming,DAMWON Gaming,2019-10-03 11:00:00,Atlus,Froskurinn,Nuguri,Royal Youth,DAMWON Gaming
+57,MEGA,Hong Kong Attitude,Hong Kong Attitude,2019-10-03 12:00:00,Atlus,Froskurinn,3Z,MEGA,Hong Kong Attitude
+58,DAMWON Gaming,Flamengo eSports,DAMWON Gaming,2019-10-03 13:00:00,Atlus,Froskurinn,Canyon,DAMWON Gaming,Flamengo eSports
+59,MEGA,Lowkey Esports,MEGA,2019-10-03 14:00:00,Drakos,EGym,Rockky,MEGA,Lowkey Esports
+60,Royal Youth,Flamengo eSports,Flamengo eSports,2019-10-03 15:00:00,Drakos,EGym,Luci,Royal Youth,Flamengo eSports
+61,Hong Kong Attitude,Lowkey Esports,Lowkey Esports,2019-10-03 16:00:00,Drakos,EGym,Artifact,Hong Kong Attitude,Lowkey Esports
+62,Unicorns Of Love,Clutch Gaming,Unicorns Of Love,2019-10-04 10:00:00,Drakos,Jatt,AHaHaCiK,Unicorns Of Love,Clutch Gaming
+63,Splyce,DetonatioN FocusMe,DetonatioN FocusMe,2019-10-04 11:00:00,Drakos,Jatt,Evi,Splyce,DetonatioN FocusMe
+64,Unicorns Of Love,MAMMOTH,MAMMOTH,2019-10-04 12:00:00,Drakos,Jatt,k1ng,Unicorns Of Love,MAMMOTH
+65,Isurus,DetonatioN FocusMe,Isurus,2019-10-04 13:00:00,Medic,Spawn,Warangelus,Isurus,DetonatioN FocusMe
+66,Clutch Gaming,MAMMOTH,Clutch Gaming,2019-10-04 14:00:00,Medic,Spawn,Huni,Clutch Gaming,MAMMOTH
+67,Isurus,Splyce,Splyce,2019-10-04 15:00:00,Medic,Spawn,Humanoid,Isurus,Splyce
+68,DAMWON Gaming,Royal Youth,DAMWON Gaming,2019-10-05 10:00:00,Atlus,Jatt,ShowMaker,DAMWON Gaming,Royal Youth
+69,Hong Kong Attitude,MEGA,Hong Kong Attitude,2019-10-05 11:00:00,Atlus,Jatt,Crash,Hong Kong Attitude,MEGA
+70,Flamengo eSports,DAMWON Gaming,DAMWON Gaming,2019-10-05 12:00:00,Atlus,Jatt,ShowMaker,Flamengo eSports,DAMWON Gaming
+71,Lowkey Esports,MEGA,Lowkey Esports,2019-10-05 13:00:00,Drakos,Ender,DNK,Lowkey Esports,MEGA
+72,Flamengo eSports,Royal Youth,Royal Youth,2019-10-05 14:00:00,Drakos,Ender,Pilot,Flamengo eSports,Royal Youth
+73,Lowkey Esports,Hong Kong Attitude,Hong Kong Attitude,2019-10-05 15:00:00,Drakos,Ender,Crash,Lowkey Esports,Hong Kong Attitude
+74,Unicorns Of Love,MAMMOTH,Unicorns Of Love,2019-10-04 16:00:00,Medic,Spawn,BOSS,MAMMOTH,Unicorns Of Love
+75,Clutch Gaming,Unicorns Of Love,Clutch Gaming,2019-10-04 17:00:00,Medic,Spawn,Huni,Clutch Gaming,Unicorns Of Love
+76,Flamengo eSports,Royal Youth,Royal Youth,2019-10-05 16:00:00,Drakos,Ender,Armut,Royal Youth,Flamengo eSports
+77,DAMWON Gaming,Lowkey Esports,DAMWON Gaming,2019-10-07 11:00:00,Atlus,Jatt,ShowMaker,Lowkey Esports,DAMWON Gaming
+81,Clutch Gaming,Royal Youth,Clutch Gaming,2019-10-07 16:00:00,Medic,EGym,Cody Sun,Clutch Gaming,Royal Youth
+84,Hong Kong Attitude,Isurus,Hong Kong Attitude,2019-10-08 11:00:00,Medic,Spawn,Kaiwing,Hong Kong Attitude,Isurus
+88,Splyce,Unicorns Of Love,Splyce,2019-10-08 16:00:00,Drakos,Ender,Kobbe,Unicorns Of Love,Splyce
