@@ -1,6 +1,5 @@
 <body>
     <h1>League of Legends 2019 World Championship Analysis </h1> 
- <img src="![lol-league-of-legends](https://github.com/emr-ren/MUSCLEMAN_DATA-MINING-LEAGUE-OF-LEGENDS-WC2019/assets/107279229/ec429f1e-346f-4a6f-8161-91f36f0de6a0) " width="300">
     <h4>Introduction</h4>
     <h2>League Of Legends</h2>
     <p>League of Legends, commonly known as LOL, is a MOBA game released by Riot Games on October 27, 2009. This game is the first game of Riot company.</p>
